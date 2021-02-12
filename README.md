@@ -1,3 +1,4 @@
 # practicerepo
-## Vidya Giri
+## Vidya Giri 
+### Partner: Gurhar Khalsa
 Version Control
